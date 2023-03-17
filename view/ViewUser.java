@@ -1,6 +1,6 @@
-package Seminar11.calc.view;
+package view;
 
-import Seminar11.calc.controller.UserController;
+import controller.UserController;
 
 import java.util.Scanner;
 
