@@ -1,6 +1,6 @@
-package Seminar11.calc.controller;
+package controller;
 
-import Seminar11.calc.model.*;
+import model.*;
 
 
 public class UserController {
