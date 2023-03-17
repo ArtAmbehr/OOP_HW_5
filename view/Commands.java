@@ -1,4 +1,4 @@
-package Seminar11.calc.view;
+package view;
 
 public enum Commands {
     NONE,
