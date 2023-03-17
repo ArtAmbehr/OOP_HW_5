@@ -1,11 +1,9 @@
-package Seminar11.calc;
-
-import Seminar11.calc.controller.UserController;
-import Seminar11.calc.model.Logger;
-import Seminar11.calc.model.LoggerImpl;
-import Seminar11.calc.model.CalcComplex;
-import Seminar11.calc.model.CalcRational;
-import Seminar11.calc.view.ViewUser;
+import controller.UserController;
+import model.Logger;
+import model.LoggerImpl;
+import model.CalcComplex;
+import model.CalcRational;
+import view.ViewUser;
 
 public class Main {
     public static void main(String[] args) {
