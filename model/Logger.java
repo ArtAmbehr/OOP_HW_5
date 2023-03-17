@@ -1,4 +1,4 @@
-package Seminar11.calc.model;
+package model;
 
 public interface Logger {
     void saveLine(String result);
