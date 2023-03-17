@@ -1,4 +1,4 @@
-package Seminar11.calc.model;
+package model;
 
 public class Complex {
     private final double real;
