@@ -1,4 +1,4 @@
-package Seminar11.calc.model;
+package model;
 
 import java.io.FileWriter;
 import java.io.IOException;
